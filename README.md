@@ -39,10 +39,10 @@ here I went into the _'Gradient_Text_001'_ folder.
 
 ## Effects List
 
-| S.No |        Effect Title |
+| S.No | Effect Title |
 | :--- | ------------------: |
-| 001  |       Gradient Text |
-| 002  |         Glow Button |
+| 001  | Gradient Text |
+| 002  | Glow Button |
 | 003  | Gradient_Background |
 
 ## 📜 License
