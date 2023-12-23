@@ -41,7 +41,7 @@ here I went into the _'Gradient_Text_001'_ folder.
 ## Effects List
 
 | S.No | Effect Title |
-| :--- | ------------------: |
+| :---: | :------------------: |
 | 001  | [Gradient Text](CSS-EFFECTS/Gradient_Text_001/) |
 | 002  | [Glow Button](CSS-EFFECTS/Glow_Button_002/) |
 | 003  | [Gradient_Background](CSS-EFFECTS/Gradient_Background_003/) |
