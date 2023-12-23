@@ -51,7 +51,7 @@ here I went into the _'Gradient_Text_001'_ folder.
 
 
 ## Reason For The name-If you're interested
-So I'm a crazy fan of the most underated Inventor/Engineer, Nickolas Tesla. I personally love his theories and inventions. His favorite number in 369, and mine to. That is the sole reason for the name of this repository.
+So I'm a crazy fan of the most underated Inventor/Engineer, Nickolas Tesla. I personally love his theories and inventions. His favorite number is 369, and mine to. That is the sole reason for the name of this repository.
 
 
 ## 📜 License
