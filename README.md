@@ -1,3 +1,5 @@
+---
+
 # 369-CSS-EFFECTS
 
 A _Open-source Repository_ with a lot of helpful and simple CSS effects that helps beginners in learning Web Development and experimenting their knowledge in form of projects that benefit people. 369-CSS-EFFECTS's main goal is to deliver useful and important CSS and HTML concepts to people in a easier way to infer. In simple words this Repository is a simple and conceptual `CSS` & `HTML` learning platform for emmerging Web Dev's.
@@ -38,7 +40,7 @@ cd Gradient_Text_001/
 here I went into the _'Gradient_Text_001'_ folder.
 
 
-## Effects List
+## 📄 Effects List
 
 | S.No | Effect Title |
 | :---: | :------------------: |
@@ -57,3 +59,5 @@ This Open-Sorce Repository is [MIT](LICENSE) licensed.
 If you want to contribute feel free and clone this repository and add your changes as commits and the request a pull. Make sure that you make your changes and act in accordance to the [Contibuting.md](Contibuting.md). You are even supporting me by giving a ⭐ to this Repository.
 
 **Made with ❤️ by Yuheshpandian.**
+
+---
