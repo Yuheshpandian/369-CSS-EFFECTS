@@ -49,6 +49,11 @@ here I went into the _'Gradient_Text_001'_ folder.
 | 002  | [Glow Button](CSS-EFFECTS/Glow_Button_002/) |
 | 003  | [Gradient_Background](CSS-EFFECTS/Gradient_Background_003/) |
 
+
+## Reason For The name-If you're interested
+So I'm a crazy fan of the most underated Inventor/Engineer, Nickolas Tesla. I personally love his theories and inventions. His favorite number in 369, and mine to. That is the sole reason for the name of this repository.
+
+
 ## 📜 License
 
 This Open-Sorce Repository is [MIT](LICENSE) licensed.
