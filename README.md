@@ -46,7 +46,7 @@ here I went into the _'Gradient_Text_001'_ folder.
 
 ## 📜 License
 
-This Open-Sorce Repository is [MIT]("LICENSE") licensed.
+This Open-Sorce Repository is [MIT](LICENSE) licensed.
 
 ## 🤝 Contributors
 
