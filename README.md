@@ -37,13 +37,14 @@ cd Gradient_Text_001/
 
 here I went into the _'Gradient_Text_001'_ folder.
 
+
 ## Effects List
 
 | S.No | Effect Title |
 | :--- | ------------------: |
-| 001  | Gradient Text |
-| 002  | Glow Button |
-| 003  | Gradient_Background |
+| 001  | [Gradient Text](Gradient_Text_001/) |
+| 002  | [Glow Button](Glow_Button_002/) |
+| 003  | [Gradient_Background](Gradient_Background_003/) |
 
 ## 📜 License
 
