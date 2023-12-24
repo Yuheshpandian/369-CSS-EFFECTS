@@ -3,11 +3,11 @@
 
 # 369-CSS-EFFECTS
 
-A _Open-source Repository_ with a lot of helpful and simple CSS effects that helps beginners in learning Web Development and experimenting their knowledge in form of projects that benefit people. 369-CSS-EFFECTS's main goal is to deliver useful and important CSS and HTML concepts to people in a easier way to infer. In simple words this Repository is a simple and conceptual `CSS` & `HTML` learning platform for emmerging Web Dev's.
+A _Open-source Repository_ with a lot of helpful and simple CSS effects that helps beginners in learning Web Development and experimenting their knowledge in form of projects that benefit people. *369-CSS-EFFECTS's* main goal is to deliver useful and important CSS and HTML concepts to people in a easier way to infer. In simple words this Repository is a simple and conceptual `CSS` & `HTML` learning platform for emmerging Web Dev's.
 
 ## 🎯 Objective
 
-To deliver immensive css knowledge in form of simple concepts and code snippets to create basic css effects that are essential in the developments of crazy websites.
+To deliver immensive `css` knowledge in form of simple concepts and code snippets to create basic css effects that are essential in the developments of crazy websites.
 
 - To help Web dev's to understand basic CSS concepts
 - To provide useful css code snippets of wonderful effects
@@ -22,9 +22,9 @@ To deliver immensive css knowledge in form of simple concepts and code snippets 
 
 ## 🫵🏻 What you should do
 
-Open the CSS-EFFECTS Folder to delve into the learning of wonderful css effects. Then navigate to any folder with the effect name mentioned as its title that you're looking for are feel interested. Then give a look onto the code in both `index.html` & `style.css` and try to understand it. Then implement them in your upcoming web projects.
+Open the `CSS-EFFECTS` Folder to delve into the learning of wonderful css effects. Then navigate to any folder with the effect name mentioned as its title that you're looking for are feel interested. Then give a look onto the code in both `index.html` & `style.css` and try to understand it. Then implement them in your upcoming web projects.
 
-### Want to use them via your local machine 🖥️:
+### Want to use them via your _local machine_ 🖥️:
 
 **Run the following command to clone this Repository to your local machine**
 
@@ -50,8 +50,8 @@ here I went into the _'Gradient_Text_001'_ folder.
 | 003  | [Gradient_Background](CSS-EFFECTS/Gradient_Background_003/) |
 
 
-## Reason For The name-If you're interested
-So I'm a crazy fan of the most underated Inventor/Engineer, Nickolas Tesla. I personally love his theories and inventions. His favorite number is 369, and mine to. That is the sole reason for the name of this repository.
+## ❔ Reason For The name _(If you're interested)_
+So I'm a crazy fan of the most underated Inventor/Engineer, *Nickolas Tesla*. I personally love his theories and inventions. His favorite number is `369`, and mine to. That is the sole reason for the name of this repository.
 
 
 ## 📜 License
@@ -62,7 +62,9 @@ This Open-Sorce Repository is [MIT](LICENSE) licensed.
 
 ### Want To Contribute:
 
-If you want to contribute feel free and clone this repository and add your changes as commits and the request a pull. Make sure that you make your changes and act in accordance to the [Contibuting.md](Contibuting.md). You are even supporting me by giving a ⭐ to this Repository.
+If you want to contribute feel free and clone this repository and add your changes as commits and then request a pull. Make sure that you make your changes and act in accordance to the [Contibuting.md](Contibuting.md). You are even supporting me by giving a ⭐ to this Repository.
+
+<br>
 
 **Made with ❤️ by Yuheshpandian.**
 
