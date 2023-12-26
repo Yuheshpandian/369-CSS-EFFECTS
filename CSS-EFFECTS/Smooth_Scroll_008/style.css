@@ -1,0 +1,22 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+    margin:30px;
+    padding: 30px;
+    line-height: 1.6rem;
+    height: 170vh;
+    font-size: medium;
+}
+
+h1 {
+    font-size:40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 17px;
+}
