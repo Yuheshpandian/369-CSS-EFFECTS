@@ -10,9 +10,9 @@ A _Open-source Repository_ with a lot of helpful and simple CSS effects that hel
 
 To deliver immensive `css` knowledge in form of simple concepts and code snippets to create basic css effects that are essential in the developments of crazy websites.
 
-- To help Web dev's to understand basic CSS concepts
+- To help Web dev's to understand basic `CSS` concepts
 - To provide useful css code snippets of wonderful effects
-- To also expose programmers to new concepts of CSS & HTML
+- To also expose programmers to new concepts of **CSS** & HTML
 - And many more under the hood
 
 <br>
@@ -53,7 +53,7 @@ here I went into the _'Gradient_Text_001'_ folder.
 
 <div align="center">
 
-| S.No | Effect Title | 
+| **S.No** | **Effect Title** | 
 | :---: | :------------------: |
 | 001  | [Gradient Text](CSS-EFFECTS/Gradient_Text_001/)| 
 | 002  | [Glow Button](CSS-EFFECTS/Glow_Button_002/)| 
