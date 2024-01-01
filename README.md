@@ -1,4 +1,3 @@
-
 ---
 
 # 369-CSS-EFFECTS
@@ -52,7 +51,8 @@ here I went into the _'Gradient_Text_001'_ folder.
 | 005  | [Image Hover](CSS-EFFECTS/Image_Hover_005/)|
 | 006  | [Image Gallery](CSS-EFFECTS/Image_gallery_006/)|
 | 007  | [Image Caption](CSS-EFFECTS/Image_Caption_007/)|
-| 008  | [Smooth Scroll](CSS-EFFECTS/Smooth_Scroll_008/)
+| 008  | [Smooth Scroll](CSS-EFFECTS/Smooth_Scroll_008/)|
+| 009  | [Text Glow](CSS-EFFECTS/Text_Glow_009/)|
 
 
 ## ❔ Reason For The name _(If you're interested)_

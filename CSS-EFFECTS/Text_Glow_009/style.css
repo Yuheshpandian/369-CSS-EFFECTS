@@ -1,0 +1,18 @@
+body {
+  display: grid;
+  place-items: center;
+  height: 100dvh;
+  background: black;
+  color: rgb(40, 187, 255);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+h1 {
+  font-size: 140px;
+}
+
+h1:hover {
+  text-shadow: 0px 0px 60px rgb(0, 174, 255);
+  transition: ease-in-out 1s;
+}
