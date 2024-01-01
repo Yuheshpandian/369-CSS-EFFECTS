@@ -68,7 +68,6 @@ here I went into the _'Gradient_Text_001'_ folder.
 | 008  | [Smooth Scroll](CSS-EFFECTS/Smooth_Scroll_008/)| 
 | 009  | [Text Glow](CSS-EFFECTS/Text_Glow_009/)|
 
-
 </div>
 
 <br>
@@ -94,7 +93,7 @@ If you want to contribute feel free and clone this repository and add your chang
 
 <div align="center">
 
-**Made with ❤️ by Yuheshpandian.**
+**Made with ❤️ by **Yuheshpandian**.**
 
 </div>
 
