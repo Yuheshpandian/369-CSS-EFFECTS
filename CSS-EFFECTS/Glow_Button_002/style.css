@@ -1,46 +1,46 @@
 /* Simple Body Element Cutomization Completely optional.*/
 body {
-  background: rgb(7, 7, 7);
-  padding: 0;
-  margin: 0;
-  font-size: 80px;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  font-weight: bold;
+   background: rgb(7, 7, 7);
+   padding: 0;
+   margin: 0;
+   font-size: 80px;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+   font-weight: bold;
 }
 /*Just centers the content inside the element of class Container to the Web Page.*/
 .container {
-  display: grid;
-  place-items: center;
-  height: 100vh;
+   display: grid;
+   place-items: center;
+   height: 100vh;
 }
 
 /*Button Style before Hovering*/
 .container .btn {
-  font-size: 100px;
-  padding: 18px;
-  border-radius: 80px;
-  border: none;
-  background: transparent;
-  color: aqua;
-  outline: 1px solid aqua;
+   font-size: 100px;
+   padding: 18px;
+   border-radius: 80px;
+   border: none;
+   background: transparent;
+   color: aqua;
+   outline: 1px solid aqua;
 }
 
 /*Button Style on hovering*/
 .container .btn:hover {
-  color: rgb(7, 7, 7);
-  background: aqua;
-  box-shadow: aqua 0px 0px 70px; /*setting Button a glow shadow*/
-  transition: ease-in-out 0.7s; /*Transition to ease out the change in style of the button on hovering.*/
+   color: rgb(7, 7, 7);
+   background: aqua;
+   box-shadow: aqua 0px 0px 70px; /*setting Button a glow shadow*/
+   transition: ease-in-out 0.7s; /*Transition to ease out the change in style of the button on hovering.*/
 }
 
 /*Button style once clicked*/
 .container .btn:active {
-  color: rgb(7, 7, 7);
-  background: aqua;
-  box-shadow: aqua 0px 0px 80px;
-  transform: scale(150%);
-  transition: ease-in-out 1ss;
+   color: rgb(7, 7, 7);
+   background: aqua;
+   box-shadow: aqua 0px 0px 80px;
+   transform: scale(150%);
+   transition: ease-in-out 1ss;
 }
 
 /* Code Ends */

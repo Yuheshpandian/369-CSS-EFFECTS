@@ -1,61 +1,61 @@
 /* Simple Body Element Cutomization Completely optional.*/
 body {
-  background: rgb(7, 7, 7);
-  padding: 0;
-  margin: 0;
-  font-size: 80px;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  font-weight: bold;
+   background: rgb(7, 7, 7);
+   padding: 0;
+   margin: 0;
+   font-size: 80px;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+   font-weight: bold;
 }
 /*Just centers the content inside the element of class Container to the Web Page.*/
 .container {
-  display: grid;
-  place-items: center;
-  height: 100vh;
+   display: grid;
+   place-items: center;
+   height: 100vh;
 }
 
 /*Plain White Text*/
 .container .plain {
-  color: white;
+   color: white;
 }
 
 /*Black text with gradient Background*/
 .container .gradient_bg {
-  color: black;
-  background: linear-gradient(45deg, rgb(0, 0, 255), rgb(255, 0, 0));
+   color: black;
+   background: linear-gradient(45deg, rgb(0, 0, 255), rgb(255, 0, 0));
 }
 
 /*Actual Code for gradient text effect*/
 .container .gradient_fill {
-  background: linear-gradient(
-    45deg,
-    rgb(0, 0, 255),
-    rgb(255, 0, 0)
-  ); /* A gradient background, Customize however you want.*/
-  /* A gradient background, Customize however you want.*/
-  -webkit-background-clip: text; /*Clips the background in the size and shape of the text.*/
-  color: transparent; /*Converts the color to transparent to make the gradient visible.*/
+   background: linear-gradient(
+      45deg,
+      rgb(0, 0, 255),
+      rgb(255, 0, 0)
+   ); /* A gradient background, Customize however you want.*/
+   /* A gradient background, Customize however you want.*/
+   -webkit-background-clip: text; /*Clips the background in the size and shape of the text.*/
+   color: transparent; /*Converts the color to transparent to make the gradient visible.*/
 }
 
 .container .gradient_fill_move {
-  background: linear-gradient(45deg, rgb(0, 0, 255), rgb(255, 0, 0));
-  background-size: 300%; /* A gradient background, Customize however you want.*/
-  -webkit-background-clip: text; /*Clips the background in the size and shape of the text.*/
-  color: transparent; /*Converts the color to transparent to make the gradient visible.*/
-  animation: move 5s infinite alternate;
+   background: linear-gradient(45deg, rgb(0, 0, 255), rgb(255, 0, 0));
+   background-size: 300%; /* A gradient background, Customize however you want.*/
+   -webkit-background-clip: text; /*Clips the background in the size and shape of the text.*/
+   color: transparent; /*Converts the color to transparent to make the gradient visible.*/
+   animation: move 5s infinite alternate;
 }
 
 @keyframes move {
-  0% {
-    background-position: left;
-  }
-  50% {
-    background-position: center;
-  }
-  100% {
-    background-position: right;
-  }
+   0% {
+      background-position: left;
+   }
+   50% {
+      background-position: center;
+   }
+   100% {
+      background-position: right;
+   }
 }
 
 /*Code Ends*/

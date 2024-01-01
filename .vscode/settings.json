@@ -1,0 +1,12 @@
+{
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "editor.formatOnSave": true,
+   "editor.autoClosingBrackets": "always",
+   "editor.autoClosingQuotes": "always",
+   "files.autoSave": "onWindowChange",
+   "terminal.integrated.rightClickCopyPaste": true,
+   "terminal.integrated.cursorStyle": "line",
+   "terminal.integrated.cursorBlinking": true,
+   "files.insertFinalNewline": true,
+   "liveServer.settings.port": 3000
+}
