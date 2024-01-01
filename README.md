@@ -39,6 +39,9 @@ Open the `CSS-EFFECTS` Folder to delve into the learning of wonderful css effect
 git clone https://github.com/Yuheshpandian/369-CSS-EFFECTS.git
 ```
 
+<br>
+
+
 **Then change the directory of the folder containing the effect you want to give a try.**
 
 ```bash
