@@ -52,7 +52,7 @@ here I went into the _'Gradient_Text_001'_ folder.
 
 <br>
 
-## 📄 **Effects List**
+## 📄 **Effects list**
 
 <div align="center">
 
@@ -72,7 +72,7 @@ here I went into the _'Gradient_Text_001'_ folder.
 
 <br>
 
-## ❔ **Reason For The name _(If you're interested)_***
+## ❔ **Reason for the name _(If you're interested)_**
 So I'm a crazy fan of the most underated Inventor/Engineer, *Nickolas Tesla*. I personally love his theories and inventions. His favorite number is `369`, and mine to. That is the sole reason for the name of this repository.
 
 <br>
