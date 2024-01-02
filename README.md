@@ -2,13 +2,13 @@
 
 # **369-CSS-EFFECTS**
 
-A _Open-source Repository_ with a lot of helpful and simple CSS effects that helps beginners in learning Web Development and experimenting their knowledge in form of projects that benefit people. *369-CSS-EFFECTS's* main goal is to deliver useful and important CSS and HTML concepts to people in a easier way to infer. In simple words this Repository is a simple and conceptual `CSS` & `HTML` learning platform for emmerging Web Dev's.
+A _Open-source Repository_ with a lot of helpful and simple CSS effects that helps beginners in learning Web Development and experimenting their knowledge in form of projects that benefit people. *369-CSS-EFFECTS's* main goal is to deliver useful and important CSS and HTML concepts to people in a easier way to infer. In simple words this Repository is a simple and conceptual `CSS` & `HTML` learning platform for emerging Web Dev's.
 
 <br>
 
 ## 🎯 **Objective**
 
-To deliver immensive `css` knowledge in form of simple concepts and code snippets to create basic css effects that are essential in the developments of crazy websites.
+To deliver immense `css` knowledge in form of simple concepts and code snippets to create basic css effects that are essential in the developments of crazy websites.
 
 - To help Web dev's to understand basic `CSS` concepts
 - To provide useful css code snippets of wonderful effects
@@ -73,13 +73,13 @@ here I went into the _'Gradient_Text_001'_ folder.
 <br>
 
 ## ❔ **Reason for the name _(If you're interested)_**
-So I'm a crazy fan of the most underated Inventor/Engineer, *Nickolas Tesla*. I personally love his theories and inventions. His favorite number is `369`, and mine to. That is the sole reason for the name of this repository.
+So I'm a crazy fan of the most underrated Inventor/Engineer, *Nickolas Tesla*. I personally love his theories and inventions. His favorite number is `369`, and mine to. That is the sole reason for the name of this repository.
 
 <br>
 
 ## 📜 **License**
 
-This Open-Sorce Repository is [MIT](LICENSE) licensed.
+This Open-Source Repository is [MIT](LICENSE) licensed.
 
 <br>
 
