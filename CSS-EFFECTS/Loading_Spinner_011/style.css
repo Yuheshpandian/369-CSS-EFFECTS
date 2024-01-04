@@ -1,0 +1,28 @@
+body {
+   background: black;
+}
+
+main {
+   display: grid;
+   place-items: center;
+   height: 100vh;
+}
+
+.spinner {
+   background: transparent;
+   height: 100px;
+   width: 100px;
+   border-radius: 50%;
+   border: 5px solid transparent;
+   border-top-color: #00e5ff;
+   animation: spin 0.5s ease infinite;
+}
+
+@keyframes spin {
+   0% {
+      rotate: 0deg;
+   }
+   100% {
+      rotate: 360deg;
+   }
+}

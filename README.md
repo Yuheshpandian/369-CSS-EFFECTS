@@ -58,15 +58,17 @@ here I went into the _'Gradient_Text_001'_ folder.
 
 | **S.No** | **Effect Title** | 
 | :---: | :------------------: |
-| 001  | [Gradient Text](CSS-EFFECTS/Gradient_Text_001/)| 
-| 002  | [Glow Button](CSS-EFFECTS/Glow_Button_002/)| 
-| 003  | [Gradient Background](CSS-EFFECTS/Gradient_Background_003/)| 
-| 004  | [Glass Effect](CSS-EFFECTS/Glass_Effect_004/)| 
-| 005  | [Image Hover](CSS-EFFECTS/Image_Hover_005/)|
-| 006  | [Image Gallery](CSS-EFFECTS/Image_gallery_006/)| 
-| 007  | [Image Caption](CSS-EFFECTS/Image_Caption_007/)| 
-| 008  | [Smooth Scroll](CSS-EFFECTS/Smooth_Scroll_008/)| 
-| 009  | [Text Glow](CSS-EFFECTS/Text_Glow_009/)|
+|  001  | [Gradient Text](CSS-EFFECTS/Gradient_Text_001/)| 
+|  002  | [Glow Button](CSS-EFFECTS/Glow_Button_002/)| 
+|  003  | [Gradient Background](CSS-EFFECTS/Gradient_Background_003/)| 
+|  004  | [Glass Effect](CSS-EFFECTS/Glass_Effect_004/)| 
+|  005  | [Image Hover](CSS-EFFECTS/Image_Hover_005/)|
+|  006  | [Image Gallery](CSS-EFFECTS/Image_gallery_006/)| 
+|  007  | [Image Caption](CSS-EFFECTS/Image_Caption_007/)| 
+|  008  | [Smooth Scroll](CSS-EFFECTS/Smooth_Scroll_008/)| 
+|  009  | [Text Glow](CSS-EFFECTS/Text_Glow_009/)|
+|  010  | [Image Float](CSS-EFFECTS/Image_Float_010/)|
+|  011  | [Loading Spinner](CSS-EFFCETS/Loading_Spinner_011/)|
 
 </div>
 
