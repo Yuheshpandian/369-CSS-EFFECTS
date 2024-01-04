@@ -56,19 +56,19 @@ here I went into the _'Gradient_Text_001'_ folder.
 
 <div align="center">
 
-| **S.No** | **Effect Title** | 
-| :---: | :------------------: |
-|  001  | [Gradient Text](CSS-EFFECTS/Gradient_Text_001/)| 
-|  002  | [Glow Button](CSS-EFFECTS/Glow_Button_002/)| 
-|  003  | [Gradient Background](CSS-EFFECTS/Gradient_Background_003/)| 
-|  004  | [Glass Effect](CSS-EFFECTS/Glass_Effect_004/)| 
-|  005  | [Image Hover](CSS-EFFECTS/Image_Hover_005/)|
-|  006  | [Image Gallery](CSS-EFFECTS/Image_gallery_006/)| 
-|  007  | [Image Caption](CSS-EFFECTS/Image_Caption_007/)| 
-|  008  | [Smooth Scroll](CSS-EFFECTS/Smooth_Scroll_008/)| 
-|  009  | [Text Glow](CSS-EFFECTS/Text_Glow_009/)|
-|  010  | [Image Float](CSS-EFFECTS/Image_Float_010/)|
-|  011  | [Loading Spinner](CSS-EFFECTS/Loading_Spinner_011/)|
+| **S.No** | **Effect Title** | **Effect Description** |
+| :---: | :------------------: | :------------:|
+|  001  | [Gradient Text](CSS-EFFECTS/Gradient_Text_001/)| A text with a Moving Gradient as color|
+|  002  | [Glow Button](CSS-EFFECTS/Glow_Button_002/)| A button that glow on hovering |
+|  003  | [Gradient Background](CSS-EFFECTS/Gradient_Background_003/)|  A webpage with a moving Gradient as Background |
+|  004  | [Glass Effect](CSS-EFFECTS/Glass_Effect_004/)| A Glossy texture on div |
+|  005  | [Image Hover](CSS-EFFECTS/Image_Hover_005/)| An Effect that applies on hovering an image |
+|  006  | [Image Gallery](CSS-EFFECTS/Image_gallery_006/)| A simple Image Gallery with transitions |
+|  007  | [Image Caption](CSS-EFFECTS/Image_Caption_007/)| A caption of image that is visible when image is hovered |
+|  008  | [Smooth Scroll](CSS-EFFECTS/Smooth_Scroll_008/)| Scroll transition on webpage |
+|  009  | [Text Glow](CSS-EFFECTS/Text_Glow_009/)| Text glows when it is hovered |
+|  010  | [Image Float](CSS-EFFECTS/Image_Float_010/)| Floating effect of image on hovering |
+|  011  | [Loading Spinner](CSS-EFFECTS/Loading_Spinner_011/)| Loading spinner for a website |
 
 </div>
 
