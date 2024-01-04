@@ -95,7 +95,7 @@ If you want to contribute feel free and clone this repository and add your chang
 
 <div align="center">
 
-**Made with ❤️ by **Yuheshpandian**.**
+**Made with ❤️ by **Yuhesh**.**
 
 </div>
 
