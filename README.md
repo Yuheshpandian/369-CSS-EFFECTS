@@ -68,7 +68,7 @@ here I went into the _'Gradient_Text_001'_ folder.
 |  008  | [Smooth Scroll](CSS-EFFECTS/Smooth_Scroll_008/)| 
 |  009  | [Text Glow](CSS-EFFECTS/Text_Glow_009/)|
 |  010  | [Image Float](CSS-EFFECTS/Image_Float_010/)|
-|  011  | [Loading Spinner](CSS-EFFCETS/Loading_Spinner_011/)|
+|  011  | [Loading Spinner](CSS-EFFECTS/Loading_Spinner_011/)|
 
 </div>
 
