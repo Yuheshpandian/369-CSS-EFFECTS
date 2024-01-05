@@ -69,6 +69,7 @@ here I went into the _'Gradient_Text_001'_ folder.
 |  009  | [Text Glow](CSS-EFFECTS/Text_Glow_009/)| Text glows when it is hovered |
 |  010  | [Image Float](CSS-EFFECTS/Image_Float_010/)| Floating effect of image on hovering |
 |  011  | [Loading Spinner](CSS-EFFECTS/Loading_Spinner_011/)| Loading spinner for a website |
+|  012  | [Duolingo Style Button](CSS-EFFECTS/Douolingo_Style_Button_012/)| A button inspired from Duolingo's UI |
 
 </div>
 
