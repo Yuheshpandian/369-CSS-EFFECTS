@@ -1,3 +1,4 @@
+/*Centers the button and gives the background black color*/
 body {
    display: grid;
    place-items: center;
@@ -5,6 +6,7 @@ body {
    background-color: #000000;
 }
 
+/*Button with green color and black text*/
 button {
    height: 100px;
    width: 300px;
@@ -15,7 +17,7 @@ button {
    background: rgb(43, 255, 0);
    box-shadow: 0 10px 0px rgb(33, 196, 1);
 }
-
+/*Animation that give duolingo style button*/
 button:active {
    box-shadow: none;
    transform: translateY(5px);
