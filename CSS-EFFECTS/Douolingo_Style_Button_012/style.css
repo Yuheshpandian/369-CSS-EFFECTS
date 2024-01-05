@@ -1,0 +1,22 @@
+body {
+   display: grid;
+   place-items: center;
+   height: 100vh;
+   background-color: #000000;
+}
+
+button {
+   height: 100px;
+   width: 300px;
+   border: none;
+   border-radius: 25px;
+   color: rgb(22, 22, 22);
+   font-size: 50px;
+   background: rgb(43, 255, 0);
+   box-shadow: 0 10px 0px rgb(33, 196, 1);
+}
+
+button:active {
+   box-shadow: none;
+   transform: translateY(5px);
+}
