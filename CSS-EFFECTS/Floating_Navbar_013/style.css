@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@900&family=Roboto&display=swap");
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+   background: #ddd;
+   height: 200vh;
+   margin-top: 80px;
+   scroll-behaviour: smooth;
+}
+
+nav {
+   display: flex;
+   justify-content: space-between;
+   margin: 10px 20px;
+   align-items: center;
+   background: #3b2a5a;
+   padding: 20px;
+   border-radius: 20px;
+   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+   position: sticky;
+   top: 10px;
+   z-index: 200;
+}
+
+nav .logo {
+   font-family: Poppins, arial, monospace;
+   font-size: 2.5rem;
+   color: white;
+}
+
+nav ul {
+   display: flex;
+   justify-content: space-between;
+   width: 40%;
+   list-style-type: none;
+}
+
+nav ul li a {
+   text-decoration: none;
+   font-family: Robotto, Arial, sans-serif;
+   color: white;
+   font-size: 1.5rem;
+}
+
+nav ul li a:hover {
+   color: #ccb4c4;
+   transition: all 0.3s ease;
+}
+
+main h1 {
+   margin: 30px;
+   font-family: Roboto;
+   font-size: 3rem;
+}
+
+main p {
+   margin: 30px;
+   font-size: 1.6rem;
+   font-family: arial;
+   line-height: 1.6;
+   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+   padding: 20px;
+}
