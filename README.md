@@ -48,7 +48,7 @@ git clone https://github.com/Yuheshpandian/369-CSS-EFFECTS.git
 cd Gradient_Text_001/
 ```
 
-here I went into the _'Gradient_Text_001'_ folder.
+here I went into the _Gradient_Text_001_ folder.
 
 <br>
 
