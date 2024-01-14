@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+  }
+  
+  body {
+    display:grid;
+    place-items:center;
+    height:100vh;
+    font-family:Arial;
+    font-size:32px;
+    background:#000;
+  }
+  
+  section {
+    border:2px orange solid;
+    border-radius:30px;
+    padding:200px;
+    box-shadow:0px 0px 10px #FFA500;
+  }
+  
+  section a {
+    font-size:1.5em;
+    color:orange;
+    text-decoration:none;
+    position:relative;
+    padding:20px;
+  }
+  
+  section a:after {
+    content:"";
+    position:absolute;
+    height:5px;
+    width:0%;
+    background:orange;
+    bottom:0;
+    left:0;
+    transition:width 0.2s ease;
+  }
+  
+  section a:hover:after {
+    border-radius:2px;
+    width:100%;
+  }
