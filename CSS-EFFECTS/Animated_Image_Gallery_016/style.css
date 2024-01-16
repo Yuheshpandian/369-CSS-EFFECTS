@@ -1,0 +1,32 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body {
+  display:grid;
+  place-items:center;
+  height:100vh;
+}
+
+.gallery {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:20px;
+  width:70rem;
+}
+
+.image {
+  height:300px;
+  overflow:hidden;
+  width:120px;
+  transition:1s ease;
+  border-radius:20px;
+  box-shadow:0px 0px 5px #333;
+}
+
+.image:hover {
+  width:500px;
+}
