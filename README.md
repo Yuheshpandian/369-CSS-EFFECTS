@@ -74,6 +74,7 @@ here I went into the _Gradient_Text_001_ folder.
 |  013  | [Floating Navbar](CSS-EFFECTS/Floating_Navbar_013/) | ***A navbar that is floating on top of all content*** |
 |  014  | [Toggle Button](CSS-EFFECTS/Toggle_Button_014/) | ***A basic accessibile toggle button for you sites*** |
 |  015  | [Link Hover](CSS-EFFECTS/Link_Hover_015/) | ***A simple link hover effect*** |
+|  016  | [Animated Image Gallery](CSS-EFFECTS/Animated_Image_Gallery_016) | ***A simple animated imagee gallery for your images*** |
 
 </div>
 
