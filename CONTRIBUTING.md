@@ -1,3 +1,5 @@
+---
+
 # Contributing to 369-CSS-EFFECTS
 
 Thank you for considering contributing to the "369-CSS-EFFECTS" repository! We welcome your contributions to make this collection of CSS effects and UIs even more interesting and diverse.
@@ -21,26 +23,20 @@ Contributing to "369-CSS-EFFECTS" is easy! Here are the steps:
     git clone https://github.com/Yuheshpandian/369-CSS-EFFECTS.git
     ```
 
-3. Create a new branch for your feature or bug fix:
-
-    ```bash
-    git checkout -b feature-name
-    ```
-
-4. Make your changes and ensure that your code follows best practices.
-5. Commit your changes with a descriptive commit message:
+3. Make your changes and ensure that your code follows best practices.
+4. Commit your changes with a descriptive commit message:
 
     ```bash
     git commit -m "Add feature-name"
     ```
 
-6. Push your changes to your forked repository:
+5. Push your changes to your forked repository:
 
     ```bash
-    git push origin feature-name
+    git push origin main
     ```
 
-7. Create a pull request on the official repository.
+6. Create a pull request on the official repository.
 
 We will review your pull request and merge it if everything looks good!
 
@@ -66,3 +62,6 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 ## License
 
 "369-CSS-EFFECTS" is licensed under the [MIT License](LICENSE).
+
+
+---
