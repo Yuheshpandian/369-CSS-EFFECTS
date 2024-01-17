@@ -66,7 +66,7 @@ here I went into the _Gradient_Text_001_ folder.
 |  001  | [Gradient Text](CSS-EFFECTS/Gradient_Text_001/) | ***A text with a Moving Gradient as color***|
 |  002  | [Glow Button](CSS-EFFECTS/Glow_Button_002/) | ***A button that glow on hovering*** |
 |  003  | [Gradient Background](CSS-EFFECTS/Gradient_Background_003/) |  ***A webpage with a moving Gradient as Background*** |
-|  004  | [Glass Effect](CSS-EFFECTS/Glass_Effect_004/) | ***A Glossy texture on div*** |
+|  004  | [Glass Effect](CSS-EFFECTS/Glass_Effect_004/) | ***A Glossy Glass Morphism effect on div*** |
 |  005  | [Image Hover](CSS-EFFECTS/Image_Hover_005/) | ***An Effect that applies on hovering an image*** |
 |  006  | [Image Gallery](CSS-EFFECTS/Image_gallery_006/) | ***A simple Image Gallery with transitions*** |
 |  007  | [Image Caption](CSS-EFFECTS/Image_Caption_007/) | ***A caption of image that is visible when image is hovered*** |
