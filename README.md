@@ -105,7 +105,7 @@ If you want to contribute feel free and clone this repository and add your chang
 
 <div align="right">
 
-![BACKTOTOP](https://img.shields.io/badge/%E2%87%A7%20Back%20To%20Top-8A2BE2?style=for-the-badge)
+[![BACKTOTOP](https://img.shields.io/badge/%E2%87%A7%20Back%20To%20Top-8A2BE2?style=for-the-badge)](#369-css-effects)
 
 </div>
 
