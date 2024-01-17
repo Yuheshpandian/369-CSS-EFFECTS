@@ -99,7 +99,7 @@ This Open-Source Repository is [MIT](LICENSE) licensed.
 
 ### Want To Contribute:
 
-If you want to contribute feel free and clone this repository and add your changes as commits and then request a pull. Make sure that you make your changes and act in accordance to the [Contributing.md](CONTRIBUTING.md). You are even supporting me by giving a ⭐ to this Repository.
+If you want to contribute feel free and clone this repository and add your changes as commits and then request a pull. Make sure that you make your changes and act in accordance to the [CONTRIBUTING.md](CONTRIBUTING.md). You are even supporting me by giving a ⭐ to this Repository.
 
 <br>
 
