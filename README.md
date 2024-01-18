@@ -67,6 +67,12 @@ cd Gradient_Text_001/
 
 here I went into the _Gradient_Text_001_ folder.
 
+<div align="right">
+
+[![BACKTOTOP](https://img.shields.io/badge/%E2%87%A7%20Back%20To%20Top-8A2BE2?style=for-the-badge)](#369-css-effects)
+
+</div>
+
 <br>
 
 ## 📄 **Effects list**
@@ -93,6 +99,13 @@ here I went into the _Gradient_Text_001_ folder.
 |  016  | [Animated Image Gallery](CSS-EFFECTS/Animated_Image_Gallery_016) | ***A simple animated imagee gallery for your images*** |
 
 </div>
+
+<div align="right">
+
+[![BACKTOTOP](https://img.shields.io/badge/%E2%87%A7%20Back%20To%20Top-8A2BE2?style=for-the-badge)](#369-css-effects)
+
+</div>
+
 
 <br>
 
