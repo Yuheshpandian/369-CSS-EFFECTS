@@ -116,7 +116,8 @@ So I'm a crazy fan of the most underrated Inventor/Engineer, *Nickolas Tesla*. I
 
 ## 📜 **License**
 
-This Open-Source Repository is [MIT](LICENSE) licensed.
+This open-source project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](LICENSE) file for details.
+
 
 <br>
 
