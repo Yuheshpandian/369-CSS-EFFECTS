@@ -6,6 +6,23 @@ A _Open-source Repository_ with a lot of helpful and simple CSS effects that hel
 
 <br>
 
+## Table of Contents 
+
+---
+1. [369-CSS-EFFECTS](#369-css-effects)
+   - [Objective](#-objective)
+   - [Prerequisites](#-prerequisites)
+   - [What you should do](#-what-you-should-do)
+      - [Use them via your local machine](#want-to-use-them-via-your-local-machine-️)
+   - [Effects list](#-effects-list)
+2. [Reason for the name (If you're interested)](#-reason-for-the-name-if-youre-interested)
+3. [License](#-license)
+4. [Contributors](#-contributors)
+   - [Want To Contribute](#want-to-contribute)
+     
+---
+
+
 ## 🎯 **Objective**
 
 To deliver immense `css` knowledge in form of simple concepts and code snippets to create basic css effects that are essential in the developments of crazy websites.
