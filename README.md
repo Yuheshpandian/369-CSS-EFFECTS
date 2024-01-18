@@ -6,6 +6,23 @@ A _Open-source Repository_ with a lot of helpful and simple CSS effects that hel
 
 <br>
 
+## Table of Contents 
+
+---
+1. [369-CSS-EFFECTS](#369-css-effects)
+   - [Objective](#-objective)
+   - [Prerequisites](#-prerequisites)
+   - [What you should do](#-what-you-should-do)
+      - [Use them via your local machine](#want-to-use-them-via-your-local-machine-️)
+   - [Effects list](#-effects-list)
+2. [Reason for the name (If you're interested)](#-reason-for-the-name-if-youre-interested)
+3. [License](#-license)
+4. [Contributors](#-contributors)
+   - [Want To Contribute](#want-to-contribute)
+     
+---
+
+
 ## 🎯 **Objective**
 
 To deliver immense `css` knowledge in form of simple concepts and code snippets to create basic css effects that are essential in the developments of crazy websites.
@@ -50,6 +67,12 @@ cd Gradient_Text_001/
 
 here I went into the _Gradient_Text_001_ folder.
 
+<div align="right">
+
+[![BACKTOTOP](https://img.shields.io/badge/%E2%87%A7%20Back%20To%20Top-8A2BE2?style=for-the-badge)](#369-css-effects)
+
+</div>
+
 <br>
 
 ## 📄 **Effects list**
@@ -77,6 +100,13 @@ here I went into the _Gradient_Text_001_ folder.
 
 </div>
 
+<div align="right">
+
+[![BACKTOTOP](https://img.shields.io/badge/%E2%87%A7%20Back%20To%20Top-8A2BE2?style=for-the-badge)](#369-css-effects)
+
+</div>
+
+
 <br>
 
 ## ❔ **Reason for the name _(If you're interested)_**
@@ -86,7 +116,8 @@ So I'm a crazy fan of the most underrated Inventor/Engineer, *Nickolas Tesla*. I
 
 ## 📜 **License**
 
-This Open-Source Repository is [MIT](LICENSE) licensed.
+This open-source project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](LICENSE) file for details.
+
 
 <br>
 
