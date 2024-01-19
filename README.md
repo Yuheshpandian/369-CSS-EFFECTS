@@ -123,6 +123,10 @@ This open-source project is licensed under the [MIT License](https://choosealice
 
 ## 🤝 **Contributors**
 
+<a href="https://github.com/Yuheshpandian/369-CSS-EFFECTS/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Yuheshpandian/369-CSS-EFFECTS" />
+</a>
+
 ### Want To Contribute:
 
 If you want to contribute feel free and clone this repository and add your changes as commits and then request a pull. Make sure that you make your changes and act in accordance to the [CONTRIBUTING.md](CONTRIBUTING.md). You are even supporting me by giving a ⭐ to this Repository.
