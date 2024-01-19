@@ -2,7 +2,7 @@
 
 # **369-CSS-EFFECTS**
 
-A _Open-source Repository_ with a lot of helpful and simple CSS effects that helps beginners in learning Web Development and experimenting their knowledge in form of projects that benefit people. *369-CSS-EFFECTS's* main goal is to deliver useful and important CSS and HTML concepts to people in a easier way to infer. In simple words this Repository is a simple and conceptual `CSS` & `HTML` learning platform for emerging Web Dev's. This repository has some simple UIs and effect that we use often in our awesome sites.
+A _Open-source Repository_ with a 369 helpful and simple CSS effects that helps beginners in learning Web Development and experimenting their knowledge in form of projects that benefit people. *369-CSS-EFFECTS's* main goal is to deliver useful and important CSS and HTML concepts to people in a easier way to infer. In simple words this Repository is a simple and conceptual `CSS` & `HTML` learning platform for emerging Web Dev's. This repository has some simple UIs and effect that we use often in our awesome sites.
 
 <br>
 
