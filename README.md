@@ -130,7 +130,7 @@ This open-source project is licensed under the [MIT License](https://choosealice
 
 ### Want To Contribute:
 
-If you want to contribute, clone this repository, make your changes, and submit a pull request. Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.MD). Don't forget to give this repository a ⭐ if you find it useful.
+If you want to contribute, clone this repository, make your changes, and submit a pull request. Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md). Don't forget to give this repository a ⭐ if you find it useful.
 
 
 
