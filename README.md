@@ -2,7 +2,7 @@
 
 # **369-CSS-EFFECTS**
 
-A _Open-source Repository_ with a 369 helpful and simple CSS effects that helps beginners in learning Web Development and experimenting their knowledge in form of projects that benefit people. *369-CSS-EFFECTS's* main goal is to deliver useful and important CSS and HTML concepts to people in a easier way to infer. In simple words this Repository is a simple and conceptual `CSS` & `HTML` learning platform for emerging Web Dev's. This repository has some simple UIs and effect that we use often in our awesome sites.
+Welcome to _369-CSS-EFFECTS_, an open-source repository featuring 369 helpful and simple CSS effects designed to assist beginners in learning web development and experimenting with their knowledge through practical projects. The primary goal of 369-CSS-EFFECTS is to deliver essential *CSS and HTML* concepts in an accessible way, serving as a learning platform for emerging web developers. This repository includes simple UIs and effects commonly used in websites.
 
 <br>
 
@@ -25,26 +25,27 @@ A _Open-source Repository_ with a 369 helpful and simple CSS effects that helps 
 
 ## 🎯 **Objective**
 
-To deliver immense `css` knowledge in form of simple concepts and code snippets to create basic css effects that are essential in the developments of crazy websites.
+369-CSS-EFFECTS aims to provide extensive CSS knowledge through simple concepts and code snippets. The objectives include:
 
-- To help Web dev's to understand basic `CSS` concepts
-- To provide useful css code snippets of wonderful effects
-- To also expose programmers to new concepts of **CSS** & HTML
-- And many more under the hood
+- Helping web developers understand basic CSS concepts.
+- Offering useful CSS code snippets for creating impressive effects.
+- Introducing programmers to new concepts in CSS and HTML.
 
 <br>
 
 ## 📃 **Prerequisites**
 
-- Basic Knowledge in HTML & CSS, so that learning and creating new css effects is easier and helpful.
-- A code editor to trial out the awesome css effects
-- And basic error solving ability, in case of you facing any issues in implementing these effects.
+To make the most of 369-CSS-EFFECTS, you should have:
+
+- Basic knowledge of HTML & CSS.
+- A code editor for experimenting with CSS effects.
+- Basic problem-solving skills for addressing any issues encountered during implementation.
 
 <br>
 
 ## 🫵🏻 **What you should do**
 
-Open the `CSS-EFFECTS` Folder to delve into the learning of wonderful css effects. Then navigate to any folder with the effect name mentioned as its title that you're looking for are feel interested. Then give a look onto the code in both `index.html` & `style.css` and try to understand it. Then implement them in your upcoming web projects.
+Explore the `CSS-EFFECTS` folder to access various CSS effects. Navigate to the folder with the effect name you're interested in, examine the `index.html` & `style.css` files, and try to understand the code. Implement these effects in your web projects.
 
 <br>
 
@@ -110,7 +111,7 @@ here I went into the _Gradient_Text_001_ folder.
 <br>
 
 ## ❔ **Reason for the name _(If you're interested)_**
-So I'm a crazy fan of the most underrated Inventor/Engineer, *Nickolas Tesla*. I personally love his theories and inventions. His theorey on the number `369` is awesome, so it is my favourite . That is the sole reason for the name of this repository.
+The name "369" is inspired by the theories of the underrated inventor/engineer, **Nikola Tesla**. His theory on the number *369* is fascinating, making it a personal favorite and the inspiration behind the name of this repository
 
 <br>
 
@@ -129,7 +130,9 @@ This open-source project is licensed under the [MIT License](https://choosealice
 
 ### Want To Contribute:
 
-If you want to contribute feel free and clone this repository and add your changes as commits and then request a pull. Make sure that you make your changes and act in accordance to the [CONTRIBUTING.md](CONTRIBUTING.md). You are even supporting me by giving a ⭐ to this Repository.
+If you want to contribute, clone this repository, make your changes, and submit a pull request. Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.MD). Don't forget to give this repository a ⭐ if you find it useful.
+
+
 
 <br>
 
