@@ -139,6 +139,8 @@ If you want to contribute feel free and clone this repository and add your chang
 
 </div>
 
+---
+
 <div align="center">
 
 **Made with ❤️ by **Yuhesh**.**
